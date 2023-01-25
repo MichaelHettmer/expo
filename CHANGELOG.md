@@ -14,7 +14,7 @@ Package-specific changes not released in any SDK will be added here just before 
 - Updated `@shopify/react-native-skia` from `0.1.157` to `0.1.171`. ([#20857](https://github.com/expo/expo/pull/20857) by [@kudo](https://github.com/kudo))
 - Updated `react-native-safe-area-context` from `4.4.1` to `4.5.0`. ([#20899](https://github.com/expo/expo/pull/20899) by [@gabrieldonadel](https://github.com/gabrieldonadel))
 - Updated `react-native-screens` from `3.18.0` to `3.19.0`. ([#20938](https://github.com/expo/expo/pull/20938) by [@lukmccall](https://github.com/lukmccall))
-- Updated `@shopify/flash-list` from `1.3.1` to `1.4.0`.
+- Updated `@shopify/flash-list` from `1.3.1` to `1.4.0`. ([#20927](https://github.com/expo/expo/pull/20927) by [@lukmccall](https://github.com/lukmccall))
 
 ### 🛠 Breaking changes
 
